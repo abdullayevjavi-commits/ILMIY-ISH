@@ -422,5 +422,487 @@ Siz "faqat oliy ta'lim emas" dedingiz. Quyida har bir ta'lim bosqichi uchun **3 
 
 ---
 
-*Hujjat tayyorlangan: 2026-yil, 1-iyun*
-*Manbalar: THE, British Council, ICEF, Daily Sabah, Springer, ResearchGate, GOV.UK, EMGS, YÖK, ABS*
+---
+
+## 9. ANIQ MEXANIZM VA STRUKTURA: NIMA OCHISH KERAK, KIM NIMA QILADI
+
+### 9.1. DUNYO AMALIYOTIDAGI REAL TUZILMALAR (nomma-nom)
+
+#### 🇦🇺 AVSTRALIYA — tashkilotlar va ularning ANIQ funksiyalari
+
+```
+AVSTRALIYA TIZIMI:
+
+┌─────────────────────────────────────────────────────────┐
+│  FEDERAL HUKUMAT                                         │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Department of Education (Vazirlik)                 │   │
+│  │  → Siyosat ishlab chiqish                         │   │
+│  │  → Qonunchilik (ESOS Act — eksport huquqi)       │   │
+│  │  → Statistika va hisobot                          │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ AUSTRADE (Savdo agentligi — ta'lim bo'limi)       │   │
+│  │  → Xalqaro MARKETING ("Study Australia" brendi)   │   │
+│  │  → Eksport yordami (OTM'larga bozor ma'lumoti)    │   │
+│  │  → Xorijdagi ofislar (80+ mamlakat)               │   │
+│  │  → Rekrutment tadbirlari tashkil etish            │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ TEQSA (Sifat agentligi)                           │   │
+│  │  → Provayderlarni ro'yxatga olish                 │   │
+│  │  → Sifat standartlarini belgilash va nazorat      │   │
+│  │  → Xavf-xatar asosidagi regulyatsiya             │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Department of Home Affairs (IIV)                   │   │
+│  │  → Talaba vizalari berish                         │   │
+│  │  → CRICOS (provayderlar registri)                 │   │
+│  └───────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────┘
+         ↕
+┌─────────────────────────────────────────────────────────┐
+│  UNIVERSITETLAR (mustaqil, lekin davlat standartlarida)  │
+│  → O'z marketing bo'limi                                 │
+│  → International Office (xorijiy talabalar)              │
+│  → Agent tarmog'i (xorijdagi rekrutment agentlari)       │
+│  → Dastur ishlab chiqish                                 │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Muhim:** Avstraliyada **Austrade** ta'lim eksportining MARKETING qismini olib boradi, **TEQSA** sifatni nazorat qiladi, **Vazirlik** siyosat belgilaydi. Uchta tashkilot — uchta alohida funksiya.
+
+---
+
+#### 🇬🇧 BUYUK BRITANIYA — tashkilotlar va funksiyalari
+
+```
+UK TIZIMI:
+
+┌─────────────────────────────────────────────────────────┐
+│  HUKUMAT                                                 │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ DfE (Department for Education)                     │   │
+│  │  → International Education Strategy                │   │
+│  │  → Statistik monitoring (eksport qiymati o'lchash) │   │
+│  │  → Siyosat ishlab chiqish                         │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ BRITISH COUNCIL (marketing + aloqalar)             │   │
+│  │  → "Study UK" brendi va kampaniya                  │   │
+│  │  → Xorijda 100+ ofis (ta'lim bo'limi bilan)       │   │
+│  │  → Agent/counsellor tarmog'ini boshqarish          │   │
+│  │  → TNE strategiya (2025-27)                        │   │
+│  │  → Talabalar mobilligini qo'llab-quvvatlash        │   │
+│  │  → Bozor razvedkasi (market intelligence)          │   │
+│  │  → Stipendiya dasturlari (Chevening va b.)         │   │
+│  │  TUZILMA ICHIDA:                                   │   │
+│  │   • International Education Services (IES)         │   │
+│  │   • Higher Education & Science team                │   │
+│  │   • Student Mobility team                          │   │
+│  │   • Agents & Counsellors team                      │   │
+│  │   • Research & Insights team                       │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ QAA (Quality Assurance Agency)                     │   │
+│  │  → Oliy ta'lim sifat standartlari                 │   │
+│  │  → TNE sifat tekshiruvi                           │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ UUKi (Universities UK International)               │   │
+│  │  → Universitetlar manfaatini himoya                │   │
+│  │  → TNE ma'lumot (HESA orqali)                     │   │
+│  │  → Hamkorlik platformasi                           │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Home Office (IIV)                                  │   │
+│  │  → Talaba viza (Tier 4 / Student Route)           │   │
+│  └───────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### 🇹🇷 TURKIYA — tashkilotlar va funksiyalari
+
+```
+TURKIYA TIZIMI:
+
+┌─────────────────────────────────────────────────────────┐
+│  PREZIDENT APPARATI                                      │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ YTB (Yurtdışı Türkler Başkanlığı)                 │   │
+│  │  → Türkiye Burslari stipendiya dasturini boshqarish│   │
+│  │  → Yiliga 165,000+ ariza → 5,000 tanlash          │   │
+│  │  → Universitetga joylashtirish                     │   │
+│  │  → Talabalar monitoringi                           │   │
+│  │  → "Study in Turkey" brendi                        │   │
+│  │  → Alumni tarmog'i                                 │   │
+│  │  TUZILMA: Prezident apparatiga to'g'ridan-to'g'ri  │   │
+│  │  bo'ysunadi (yuqori siyosiy vakolat)              │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ YÖK (Oliy ta'lim kengashi)                        │   │
+│  │  → Universitetlar regulyatsiyasi                   │   │
+│  │  → Sifat standartlari                             │   │
+│  │  → Xalqaro dasturlarni tasdiqlash                 │   │
+│  │  → Diplom tan olish                                │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Türkiye Maarif Vakfı (Fond)                       │   │
+│  │  → Xorijda maktab va universitetlar OCHISH (Mode 3)│   │
+│  │  → 40+ mamlakatda tashkiliy boshqaruv             │   │
+│  │  → Kadrlarni yuborish (Mode 4)                    │   │
+│  │  → O'quv dasturlari ishlab chiqish                │   │
+│  │  TUZILMA: Davlat fondi, alohida byudjet           │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Göç İdaresi (Migratsiya boshqarmasi)              │   │
+│  │  → Talaba rezidensiya ruxsatlari                  │   │
+│  └───────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### 🇲🇾 MALAYZIYA — tashkilotlar va funksiyalari
+
+```
+MALAYZIYA TIZIMI:
+
+┌─────────────────────────────────────────────────────────┐
+│  OLIY TA'LIM VAZIRLIGI (MOHE)                           │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ EMGS (Education Malaysia Global Services)          │   │
+│  │  → "ONE-STOP CENTER" (yagona oyna):               │   │
+│  │    • Xorijiy talabalar arizasini qabul qilish     │   │
+│  │    • Viza rasmiylashtiruv (IIV bilan aloqa)       │   │
+│  │    • "Study in Malaysia" brendi va marketing       │   │
+│  │    • Ma'lumotlar bazasi (statistika)               │   │
+│  │    • Provayderlar monitoringi                      │   │
+│  │    • Onlayn platforma (MYCAS) — ariza + to'lov    │   │
+│  │  TUZILMA: Vazirlik ostidagi xususiy kompaniya     │   │
+│  │  (GLC — Government-Linked Company)                │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ MQA (Malaysian Qualifications Agency)              │   │
+│  │  → Dasturlar akkreditatsiyasi                     │   │
+│  │  → Sifat standartlari                             │   │
+│  │  → Xorijiy filiallar nazorati                     │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ MIDA (Investment Development Authority)            │   │
+│  │  → Xorijiy universitetlarni JALB qilish           │   │
+│  │  → Investitsiya imtiyozlari                       │   │
+│  └───────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+#### 🇳🇿 YANGI ZELANDIYA — tashkilotlar va funksiyalari
+
+```
+YANGI ZELANDIYA TIZIMI:
+
+┌─────────────────────────────────────────────────────────┐
+│  HUKUMAT                                                 │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ Ministry of Education                              │   │
+│  │  → Umumiy siyosat                                 │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ ENZ (Education New Zealand)                        │   │
+│  │  → Xalqaro ta'limni TARG'IB qilish (marketing)   │   │
+│  │  → "Study in New Zealand" brendi                   │   │
+│  │  → Bozor razvedkasi va tendentsiyalar tahlili     │   │
+│  │  → Xalqaro hamkorliklar                           │   │
+│  │  TUZILMA: Mustaqil davlat agentligi (Crown Entity)│   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ NZQA (Qualifications Authority)                    │   │
+│  │  → Sifat va akkreditatsiya                        │   │
+│  └───────────────────────────────────────────────────┘   │
+│  ┌───────────────────────────────────────────────────┐   │
+│  │ TEC (Tertiary Education Commission)                │   │
+│  │  → Moliyalashtirish, resurs taqsimoti             │   │
+│  └───────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 9.2. O'ZBEKISTON UCHUN TAKLIF: ANIQ STRUKTURA
+
+Yuqoridagi benchmarklardan umumiylashtirib, O'zbekiston sharoitiga moslashtirilgan **aniq tashkiliy tuzilma**:
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║       O'ZBEKISTON TA'LIM EKSPORTI BOSHQARUV TIZIMI              ║
+║                (TAKLIF ETILADIGAN MODEL)                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ══════════════════ MAKRO DARAJA ═══════════════════════         ║
+║                                                                  ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 1. PREZIDENT/VAZIRLAR MAHKAMASI                    │          ║
+║  │    → "Ta'lim eksporti strategiyasi" ni TASDIQLASH  │          ║
+║  │    → Siyosiy iroda va maqsad belgilash             │          ║
+║  │    (Benchmark: UK PMI = Bosh Vazir tashabbusi)     │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                         ↓                                        ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 2. OLIY VA O'RTA TA'LIM VAZIRLIGI                 │          ║
+║  │    Nima qiladi:                                    │          ║
+║  │    → Strategiyani IJROGA aylantirish               │          ║
+║  │    → Qonunchilik bazasini tayyorlash               │          ║
+║  │    → OTM'larga topshiriqlar berish                 │          ║
+║  │    → Yillik hisobot va monitoring                  │          ║
+║  │    (Benchmark: UK DfE, Avstraliya Dept.of Ed.)     │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                         ↓                                        ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 3. "STUDY IN UZBEKISTAN" AGENTLIGI ⭐ (yangi ochiladi)│       ║
+║  │                                                    │          ║
+║  │    MAQOMI: Vazirlik huzuridagi maxsus tashkilot    │          ║
+║  │    (Malayziya EMGS yoki Yangi Zelandiya ENZ modeli)│          ║
+║  │                                                    │          ║
+║  │    TARKIBI (7 bo'lim):                             │          ║
+║  │                                                    │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.1 MARKETING BO'LIMI                   │     │          ║
+║  │    │  → "Study in Uzbekistan" brendi          │     │          ║
+║  │    │  → Xalqaro kampaniyalar (digital + live) │     │          ║
+║  │    │  → Maqsadli bozorlar: Hindiston, Arab,   │     │          ║
+║  │    │    Turkiy, Afrika, Afg'oniston, Pakistan  │     │          ║
+║  │    │  → Agent/counsellor tarmog'ini boshqarish │     │          ║
+║  │    │  → Xorijda vakil ofislari (5-10 mamlakat) │     │          ║
+║  │    │  (Benchmark: British Council IES, Austrade)│     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.2 ARIZA VA QABUL BO'LIMI (One-Stop)   │     │          ║
+║  │    │  → Yagona onlayn platforma (ariza berish) │     │          ║
+║  │    │  → Hujjatlarni tekshirish                 │     │          ║
+║  │    │  → OTM'larga yo'naltirish                 │     │          ║
+║  │    │  → To'lov tizimi                          │     │          ║
+║  │    │  (Benchmark: EMGS MYCAS platformasi)      │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.3 VIZA VA HUQUQIY BO'LIM               │     │          ║
+║  │    │  → IIV bilan koordinatsiya                │     │          ║
+║  │    │  → Talaba vizasi jarayonini soddalashtiruv│     │          ║
+║  │    │  → "Student Pass" tizimi                  │     │          ║
+║  │    │  (Benchmark: EMGS viza xizmati)           │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.4 STIPENDIYA BO'LIMI                   │     │          ║
+║  │    │  → "Uzbekistan Scholarships" dasturi      │     │          ║
+║  │    │  → Yiliga 1,000-5,000 grant              │     │          ║
+║  │    │  → Tanlov o'tkazish va joylashtirish      │     │          ║
+║  │    │  → Alumni tarmog'i                        │     │          ║
+║  │    │  (Benchmark: Türkiye Burslari/YTB)        │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.5 MA'LUMOT VA MONITORING BO'LIMI       │     │          ║
+║  │    │  → Eksport statistikasi (OKED bo'yicha)   │     │          ║
+║  │    │  → Xorijiy talabalar bazasi               │     │          ║
+║  │    │  → OTM'lar eksport ko'rsatkichlari        │     │          ║
+║  │    │  → Yillik "Education Export Report"        │     │          ║
+║  │    │  → Bozor razvedkasi (market intelligence)  │     │          ║
+║  │    │  (Benchmark: UK DfE statistics, EMGS data) │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.6 HUDUDIY KOORDINATSIYA BO'LIMI ⭐      │     │          ║
+║  │    │  → Har viloyatdagi "eksport ofisi"ni       │     │          ║
+║  │    │    boshqarish va koordinatsiya             │     │          ║
+║  │    │  → Hududiy KPI belgilash va monitoring     │     │          ║
+║  │    │  → "Study in Bukhara/Samarkand" sub-brend  │     │          ║
+║  │    │  (Benchmark: O'ZBEKISTONGA XOS YANGILIK — │     │          ║
+║  │    │   boshqa mamlakatlarda bunday bo'lim yo'q!) │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │    ┌─────────────────────────────────────────┐     │          ║
+║  │    │ 3.7 XORIJIY EKSPANSIYA BO'LIMI           │     │          ║
+║  │    │  → Xorijda filial/franshiza ochish         │     │          ║
+║  │    │  → Ekspert/professor yuborish dasturi       │     │          ║
+║  │    │  → Xorijdagi hamkorliklar                  │     │          ║
+║  │    │  (Benchmark: Türkiye Maarif Vakfı)         │     │          ║
+║  │    └─────────────────────────────────────────┘     │          ║
+║  │                                                    │          ║
+║  │    XODIMLAR: ~50-100 kishi (boshida 30-50)         │          ║
+║  │    BYUDJET: Davlat + o'z daromadi (xizmat to'lovlari)│         ║
+║  └────────────────────────────────────────────────────┘          ║
+║                         ↓                                        ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 4. SIFAT KAFOLATI ORGANI (yangi yoki OAK ni        │          ║
+║  │    kuchaytirish)                                    │          ║
+║  │    → Ta'lim eksporti uchun maxsus standartlar       │          ║
+║  │    → Ingliz tilidagi dasturlar sifat nazorati       │          ║
+║  │    → Xalqaro akkreditatsiya ga tayyorlash           │          ║
+║  │    → TNE sifat tekshiruvi (xorijdagi filiallar)     │          ║
+║  │    (Benchmark: TEQSA, MQA, QAA)                     │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                         ↓                                        ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 5. IIV (Ichki ishlar / Migratsiya)                 │          ║
+║  │    → Maxsus "Student Visa" kategoriyasi yaratish    │          ║
+║  │    → Online ariza (agentlik platformasi bilan integ.)│          ║
+║  │    → Muddatlarni qisqartirish (7 kunlik maqsad)    │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                                                                  ║
+║  ══════════════════ MEZO DARAJA ════════════════════════         ║
+║                                                                  ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 6. HUDUDIY TA'LIM EKSPORTI OFIISI (har viloyatda)  │          ║
+║  │                                                     │          ║
+║  │    MAQOMI: Viloyat hokimligi + Agentlik qo'shma     │          ║
+║  │    boshqaruvida                                     │          ║
+║  │                                                     │          ║
+║  │    XODIMLAR: 3-5 kishi (har viloyatda)              │          ║
+║  │                                                     │          ║
+║  │    Nima qiladi:                                     │          ║
+║  │    → Viloyatdagi OTM/kollej/markazlarni birlashtirish│          ║
+║  │    → Hududiy klaster tashkil etish                  │          ║
+║  │    → Mahalliy infratuzilma masalalarini hal etish    │          ║
+║  │      (yotoqxona, transport, til kurslari)           │          ║
+║  │    → Hududiy marketing ("Study in Bukhara")         │          ║
+║  │    → Xorijiy talabalar uchun madaniy dasturlar      │          ║
+║  │    → Hududiy KPI ijrosi bo'yicha hisobot            │          ║
+║  │                                                     │          ║
+║  │    (Benchmark: Yangi Zelandiya mintaqaviy tizimi;   │          ║
+║  │     Avstraliya shtat darajasi; SIZNING YANGILIGINGIZ)│          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                                                                  ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 7. HUDUDIY KLASTER KENGASHI                        │          ║
+║  │                                                     │          ║
+║  │    A'ZOLARI:                                        │          ║
+║  │    → OTM rektorlari/direktorlari                    │          ║
+║  │    → Kollej direktorlari                            │          ║
+║  │    → Mahalliy biznes vakillari                      │          ║
+║  │    → Hokimlik vakili                                │          ║
+║  │    → Eksport ofisi rahbari                          │          ║
+║  │                                                     │          ║
+║  │    Nima qiladi:                                     │          ║
+║  │    → Umumiy hududiy strategiya kelishish            │          ║
+║  │    → Resurslarni birgalikda ishlatish (yotoqxona,    │          ║
+║  │      laboratoriya, sport inshootlari)               │          ║
+║  │    → Qo'shma dasturlar yaratish (OTM+kollej)        │          ║
+║  │    → Hududiy tadbirlar tashkil etish                │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                                                                  ║
+║  ══════════════════ MIKRO DARAJA ═══════════════════════         ║
+║                                                                  ║
+║  ┌────────────────────────────────────────────────────┐          ║
+║  │ 8. MUASSASA ICHIDAGI TUZILMA (har bir OTM/kollej)  │          ║
+║  │                                                     │          ║
+║  │    YANGI OCHILISHI KERAK BO'LGAN BO'LIMLAR:         │          ║
+║  │                                                     │          ║
+║  │    8.1 XALQARO BO'LIM (International Office)        │          ║
+║  │        Xodimlar: 5-10 kishi                         │          ║
+║  │        → Xorijiy talabalarni qabul qilish           │          ║
+║  │        → Talabalar bilan ishlash (adaptatsiya)      │          ║
+║  │        → Xorijiy universitetlar bilan aloqa         │          ║
+║  │        → Qo'shma dasturlar ishlab chiqish           │          ║
+║  │        → Agent tarmog'i bilan ishlash               │          ║
+║  │                                                     │          ║
+║  │    8.2 EKSPORT MARKETING BO'LIMI                    │          ║
+║  │        Xodimlar: 2-3 kishi                          │          ║
+║  │        → OTM saytini ingliz tilida tayyorlash       │          ║
+║  │        → Raqamli marketing (Google, social media)   │          ║
+║  │        → Xalqaro ko'rgazmalarda ishtirok            │          ║
+║  │        → Kontentni ingliz/arab/hindi tilida yaratish │          ║
+║  │                                                     │          ║
+║  │    8.3 SIFAT BOSHQARUVI BO'LIMI                     │          ║
+║  │        → Ichki sifat auditi                         │          ║
+║  │        → Xalqaro akkreditatsiyaga tayyorgarlik      │          ║
+║  │        → Talabalar qoniqish so'rovi                 │          ║
+║  │        → O'qitish sifatini monitoring               │          ║
+║  │                                                     │          ║
+║  │    8.4 INGLIZ TILIDAGI DASTURLAR BO'LIMI            │          ║
+║  │        → EMI (English Medium Instruction) dasturlar  │          ║
+║  │        → O'qituvchilarning til kompetensiyasi        │          ║
+║  │        → O'quv materiallarini ingliz tilida tayyorlash│          ║
+║  │                                                     │          ║
+║  │    8.5 TALABA XIZMATLARI (Student Services)          │          ║
+║  │        → Yotoqxona boshqaruvi                       │          ║
+║  │        → Viza yordami                               │          ║
+║  │        → Madaniy integratsiya dasturlari            │          ║
+║  │        → Psixologik yordam                          │          ║
+║  │        → Talabalar turmush sharoiti                  │          ║
+║  └────────────────────────────────────────────────────┘          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### 9.3. KIM NIMA QILADI — QISQA JADVAL
+
+| # | TASHKILOT | DARAJA | ASOSIY FUNKSIYA | BENCHMARK |
+|---|-----------|--------|-----------------|-----------|
+| 1 | Prezident/Hukumat | MAKRO | Strategiya tasdiqlash, siyosiy iroda | UK PMI, Turkiya Prezidenti |
+| 2 | Oliy ta'lim vazirligi | MAKRO | Siyosat, qonun, nazorat | UK DfE, Avstraliya Dept.Ed. |
+| 3 | **"Study in UZ" Agentligi** | MAKRO | Marketing, ariza, viza, stipendiya, monitoring, hududiy koordinatsiya, ekspansiya | EMGS + Austrade + YTB birlashtirilgan |
+| 4 | Sifat organi | MAKRO | Standartlar, akkreditatsiya, TNE nazorat | TEQSA, MQA, QAA |
+| 5 | IIV (migratsiya) | MAKRO | Talaba vizasi | UK Home Office |
+| 6 | **Hududiy eksport ofisi** | MEZO | Klaster, koordinatsiya, infratuzilma | YANGILIK (sizning hissangiz) |
+| 7 | Hududiy klaster kengashi | MEZO | OTM+kollej+biznes+hokimiyat koordinatsiyasi | YANGILIK |
+| 8 | OTM xalqaro bo'limi | MIKRO | Qabul, aloqa, dastur | Har bir ilg'or OTM |
+| 9 | OTM marketing bo'limi | MIKRO | Raqamli marketing, brend | — |
+| 10 | OTM sifat bo'limi | MIKRO | Ichki audit, akkreditatsiya | — |
+
+### 9.4. BU TIZIM QANDAY ISHLAYDI (jarayonlar oqimi)
+
+```
+XORIJIY TALABA KELISHI (Mode 2 misol):
+
+1. Talaba "Study in Uzbekistan" saytiga kiradi
+         ↓
+2. Agentlik platformasi (MYCAS modeli) — ariza beradi
+         ↓
+3. Agentlik hududiy ofisga → OTM ga yo'naltiradi
+         ↓
+4. OTM xalqaro bo'limi hujjatni tekshiradi → qabul qiladi
+         ↓
+5. Agentlik IIV ga → viza rasmiylashtiriladi (7 kun)
+         ↓
+6. Talaba keladi → OTM Student Services qabul qiladi
+         ↓
+7. Monitoring: Agentlik + OTM → statistika → yillik hisobot
+```
+
+```
+XORIJDA FILIAL OCHISH (Mode 3 misol):
+
+1. Agentlik "ekspansiya bo'limi" bozor tahlil qiladi (Afg'oniston)
+         ↓
+2. Hukumat bilan kelishiladi → ikki tomonlama bitim
+         ↓
+3. OTM tanlanadi (masalan, Buxoro DTU tibbiyot fakulteti)
+         ↓
+4. Sifat organi dasturni tekshiradi → ruxsat
+         ↓
+5. Filial ochiladi → Agentlik monitoring qiladi
+         ↓
+6. Kadrlar yuboriladi (Mode 4) → sifat nazorati davom etadi
+```
+
+---
+
+## 10. NIMA OCHISH KERAK — XULOSA JADVALI
+
+| # | Nima ochiladi | Qaerda | Kimga bo'ysunadi | Qachon | Xodimlar |
+|---|--------------|--------|------------------|--------|----------|
+| 1 | **"Study in Uzbekistan" Agentligi** | Toshkent (markaziy) | Vazirlik | 2027 | 30-50→100 |
+| 2 | Agentlik xorijiy vakolatxonalari | Hindiston, Turkiya, arab davlatlari, Pakistan (5 ta) | Agentlik | 2028-29 | Har biri 3-5 |
+| 3 | **14 ta hududiy eksport ofisi** | Har bir viloyat markazi | Agentlik + Hokimiyat | 2027-28 | Har biri 3-5 |
+| 4 | Sifat nazorati bo'limi (agentlik ichida yoki alohida) | Toshkent | Vazirlik | 2027 | 10-15 |
+| 5 | OTM'larda **Xalqaro bo'lim** (yangi yoki kuchaytirilgan) | Har bir OTM | OTM rektori | 2027 | 5-10 |
+| 6 | OTM'larda **Eksport marketing bo'limi** | Har bir eksport qiluvchi OTM | OTM rektori | 2028 | 2-3 |
+| 7 | OTM'larda **Ingliz tilidagi dasturlar** markazi | Har bir eksport OTM | O'quv bo'limi | 2027-28 | 5+ o'qituvchi |
+| 8 | **Onlayn platforma** (ariza + to'lov + monitoring) | Internet | Agentlik | 2027 | IT jamoa 5-10 |
+| 9 | **"Uzbekistan Scholarships"** dasturi | Global | Agentlik stipendiya bo'limi | 2027 | 5-10 |
+| 10 | **Hududiy klaster kengashlari** | Har viloyat | Hokimiyat + Agentlik | 2028 | Kengash a'zolari |
+
+---
+
+*Hujjat tayyorlangan: 2026-yil, 2-iyun*
+*Manbalar: Austrade, British Council, EMGS, YTB, ENZ, TEQSA, MQA, QAA, UK DfE, THE, ICEF*
