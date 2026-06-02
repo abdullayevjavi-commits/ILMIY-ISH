@@ -906,3 +906,170 @@ XORIJDA FILIAL OCHISH (Mode 3 misol):
 
 *Hujjat tayyorlangan: 2026-yil, 2-iyun*
 *Manbalar: Austrade, British Council, EMGS, YTB, ENZ, TEQSA, MQA, QAA, UK DfE, THE, ICEF*
+
+
+
+---
+
+## 11. TA'LIM EKSPORTI TURLARI VA TASHKILOTLAR — HOZIR VA KELAJAK
+
+### 11.1. O'zbekistonda HOZIR mavjud va KELAJAKDA bo'lishi kerak bo'lgan eksport turlari
+
+| # | Eksport turi | Hozir bormi? | Kelajakda (taklif) | Qaysi tashkilot |
+|---|-------------|-------------|--------------------|-----------------| 
+| 1 | Xorijiy talabalarni qabul qilish (oliy ta'lim) | ✅ Bor (12,500) | 50,000+ | Davlat va xususiy OTM'lar |
+| 2 | Tibbiyot ta'limi eksporti (hindlar) | ✅ Bor (6,500) | 15,000+ | Tibbiyot OTM'lari |
+| 3 | Xorijiy talabalar (kasb-hunar) | ⚠️ Kam | 5,000+ | Kollejlar, texnikumlar |
+| 4 | Til kurslari xorijliklarga (o'zbek, rus) | ⚠️ Minimal | 2,000+ | TDU, til markazlari |
+| 5 | Onlayn kurslar xorijga | ❌ Yo'q | 10,000+ tinglovchi | EdTech kompaniyalar, OTM'lar |
+| 6 | Ta'lim metodikasi eksporti | ❌ Yo'q | Loyihalar | Pedagogik OTM'lar |
+| 7 | Korporativ trening eksporti | ❌ Yo'q | $5-10 mln | Konsalting firmalar |
+| 8 | Xorijda filial/franshiza (Mode 3) | ❌ Yo'q | 3-5 filial | Yetakchi OTM'lar + Fond |
+| 9 | Professor/ekspert yuborish (Mode 4) | ⚠️ Tizimli emas | Dastur | OTM'lar + Agentlik |
+| 10 | Ilmiy konsalting eksporti | ❌ Yo'q | $3-5 mln | Ilmiy institutlar, OTM'lar |
+
+### 11.2. QAYSI TASHKILOTLAR ta'lim eksporti bilan shug'ullanadi / shug'ullanishi kerak
+
+| # | Tashkilot | Hozir shug'ullanadi? | Kelajakda roli |
+|---|-----------|---------------------|----------------|
+| 1 | **Oliy va o'rta ta'lim vazirligi** | Qisman (umumiy siyosat) | Strategiya + regulyatsiya |
+| 2 | **"Study in Uzbekistan" agentligi** (yangi) | ❌ Mavjud emas | Markaz: marketing, ariza, monitoring |
+| 3 | **Davlat OTM'lari** (SamDU, Buxoro DTU, ToshDTU, tibbiyot) | ✅ Asosiy (lekin tizimi yo'q) | Xorijiy talaba qabuli, dastur |
+| 4 | **Xususiy OTM'lar** (Inha, Westminster, MDIS) | ✅ Faol | Xorijiy talabalar, innovatsiya |
+| 5 | **Tibbiyot OTM'lari** | ✅ Eng faol segment | Tibbiyot hubi |
+| 6 | **Kasb-hunar kollejlari** | ❌ Emas | Texnik kadrlar eksporti |
+| 7 | **IT Park va EdTech kompaniyalar** | ⚠️ Boshlanmoqda | Raqamli kontent eksporti |
+| 8 | **Hududiy hokimiyatlar** | ❌ Emas | Infratuzilma, koordinatsiya |
+| 9 | **Til markazlari** | ⚠️ Minimal | O'zbek tili xorijliklarga |
+| 10 | **"El-yurt umidi" / Innovatsion rivojlanish agentligi** | Koordinatsiya | Stipendiya, aloqa |
+| 11 | **Tashqi ishlar vazirligi** | ❌ Emas (bevosita) | Diplom tan olish, bitimlar |
+| 12 | **IIV (Migratsiya)** | ⚠️ Viza berish | Student visa tizimi |
+| 13 | **Xususiy konsalting firmalar** | ❌ Kam | Korporativ trening eksporti |
+| 14 | **Ilmiy institutlar (FA tizimi)** | ❌ Emas | R&D konsalting eksporti |
+
+---
+
+## 12. O'LCHOV METODIKASI — QANDAY, NIMAGA ASOSLAB, QAYSI KO'RSATKICHLAR
+
+### 12.1. ASOSIY MANTIQ
+
+O'zbekistonda ta'lim eksporti boshqaruvi bo'yicha tayyor raqamlar YO'Q — chunki tizimning o'zi yo'q. Lekin "yo'qlikni" o'lchash mumkin. 3 ta usul:
+
+| Usul | Qanday ishlaydi | Sizga nima beradi |
+|------|-----------------|-------------------|
+| **1. Ekspert bahosi** (Likert shkalasi) | Ekspertlar (rektorlar, bo'lim boshliqlari) 1-5 yoki 0-3 ball bilan baholaydi | Raqamli ma'lumot — PLS-SEM uchun |
+| **2. Mavjudlik auditi** (Bor/Yo'q) | "Bu tashkilotda xalqaro bo'lim bormi? — Ha/Yo'q" | Boshqaruv yetukligi indeksi |
+| **3. Hujjat tahlili** | Strategiya bormi? KPI bormi? Hisobot bormi? — tekshirish | Ob'ektiv tasdiqlash |
+
+### 12.2. BOSHQARUV YETUKLIGI INDEKSI (MMI) — aniq hisoblash
+
+**Har bir OTM/hudud uchun 10 ta indikator:**
+
+| # | Indikator | Savol (anketa) | Javob | Ball |
+|---|-----------|----------------|-------|------|
+| 1 | Eksport strategiyasi | "Muassasangizda yozma eksport strategiyasi bormi?" | Yo'q=0, Qisman=1, Ha lekin ijro yo'q=2, Ha+ijro=3 | 0-3 |
+| 2 | Mas'ul tuzilma | "Eksport uchun maxsus bo'lim/xodim bormi?" | Yo'q=0, 1 kishi=1, Bo'lim=2, To'liq office=3 | 0-3 |
+| 3 | KPI mavjudligi | "Eksport bo'yicha raqamli maqsadlar belgilanganmi?" | Yo'q=0, Og'zaki=1, Yozma=2, Monitoring bilan=3 | 0-3 |
+| 4 | Monitoring | "Eksport natijalarini muntazam o'lchaysizmi?" | Hech qachon=0, Yilda 1=1, Har chorak=2, Doimiy=3 | 0-3 |
+| 5 | Ingliz tilidagi dasturlar | "Ingliz tilida o'qitiladigan dasturlar soni?" | 0=0, 1-3=1, 4-10=2, 10+=3 | 0-3 |
+| 6 | Xalqaro akkreditatsiya | "Xalqaro akkreditatsiyaga ega dasturlar bormi?" | Yo'q=0, Jarayonda=1, 1-2=2, 3+=3 | 0-3 |
+| 7 | Marketing faoliyati | "Xalqaro marketing olib borasyizmi?" | Yo'q=0, Faqat sayt=1, Sayt+tadbirlar=2, Tizimli=3 | 0-3 |
+| 8 | Viza yordami | "Xorijiy talabalar vizasi uchun yordam tizimi bormi?" | Yo'q=0, Qisman=1, Bo'lim=2, One-stop=3 | 0-3 |
+| 9 | Bo'limlararo koordinatsiya | "Xalqaro, o'quv, ilmiy bo'limlar birgalikda ishlaydi?" | Yo'q=0, Ba'zan=1, Tez-tez=2, Doimiy tizim=3 | 0-3 |
+| 10 | Hududiy hamkorlik | "Boshqa tashkilotlar bilan eksport bo'yicha hamkorlik bormi?" | Yo'q=0, Informal=1, Bitim=2, Klaster=3 | 0-3 |
+
+**HISOBLASH:** MMI = Yig'ilgan ball / 30 × 100%
+
+**INTERPRETATSIYA:**
+
+| MMI | Bosqich | Tavsif |
+|-----|---------|--------|
+| 0-20% | **0 — Yo'qlik** | Boshqaruv mexanizmlari mavjud emas |
+| 21-40% | **1 — Reaktiv** | Ayrim elementlar bor, tizim yo'q |
+| 41-60% | **2 — Shakllanish** | Asosiy tuzilmalar paydo bo'lgan |
+| 61-80% | **3 — Tizimli** | Mexanizmlar ishlaydi, monitoring bor |
+| 81-100% | **4 — Oliy** | To'liq integratsiyalashgan boshqaruv |
+
+### 12.3. MEXANIZMLAR MAVJUDLIGI VA ISHLASHI — o'lchov
+
+6 ta mexanizmning har biri uchun 3 ta savol (Likert 1-5):
+
+| Mexanizm | Savol 1 (mavjudlik) | Savol 2 (samaradorlik) | Savol 3 (natija) |
+|----------|---------------------|------------------------|------------------|
+| Strategik | "Qay darajada mavjud?" | "Qay darajada samarali?" | "Qay darajada natija beradi?" |
+| Tashkiliy-koordinatsion | 1-5 | 1-5 | 1-5 |
+| Sifat boshqaruvi | 1-5 | 1-5 | 1-5 |
+| Motivatsion | 1-5 | 1-5 | 1-5 |
+| Monitoring | 1-5 | 1-5 | 1-5 |
+| Hududiy koordinatsiya | 1-5 | 1-5 | 1-5 |
+
+**Jami:** 6 × 3 = **18 indikator** → PLS-SEM uchun yetarli.
+
+### 12.4. BOSHQARUV QARORLARI SAMARADORLIGI
+
+| Ko'rsatkich | Qanday o'lchanadi | Manba |
+|------------|-------------------|-------|
+| Qaror tezligi | "Yangi dastur ochish uchun qancha vaqt?" (kunlarda) | Anketa |
+| Qaror ijrosi | "Qabul qilingan qarorlarning nechtasi ijro etildi?" (%) | Anketa + hujjat |
+| Reaktsiya tezligi | "Yangi imkoniyatga qancha tez javob berasiz?" | Likert 1-5 |
+| Koordinatsiya | "Qaror qabul qilishda bo'limlar qanchalik tez kelishadi?" | Likert 1-5 |
+
+### 12.5. HUDUDLARARO FARQ — qanday ko'rinadi
+
+| Hudud | MMI (%) | Bosqich | Xorijiy talabalar | Ingliz dasturlar |
+|-------|---------|---------|-------------------|-----------------|
+| Toshkent shahri | ~45% | Shakllanish | ~8,000 | 30+ |
+| Samarqand | ~25% | Reaktiv | ~2,000 | 5-10 |
+| Buxoro | ~15% | Yo'qlik | ~500 | 2-3 |
+| Navoiy | ~5% | Yo'qlik | ~50 | 0 |
+| Surxondaryo | ~3% | Yo'qlik | ~20 | 0 |
+
+### 12.6. TASHKILIY TUZILMA TO'LIQLIGI — audit
+
+| # | Tuzilma elementi | Bor=1, Yo'q=0 |
+|---|-----------------|----------------|
+| 1 | Yozma eksport strategiyasi | 0/1 |
+| 2 | Xalqaro bo'lim (alohida) | 0/1 |
+| 3 | Marketing bo'limi/xodimi | 0/1 |
+| 4 | Ingliz tilidagi dasturlar | 0/1 |
+| 5 | Xalqaro akkreditatsiya | 0/1 |
+| 6 | KPI tizimi (eksport) | 0/1 |
+| 7 | Monitoring/hisobot | 0/1 |
+| 8 | Viza yordami xizmati | 0/1 |
+| 9 | Hududiy hamkorlik (formal) | 0/1 |
+| 10 | Onlayn ariza platformasi | 0/1 |
+
+**To'liqlik koeffitsiyenti** = Yig'indi / 10 × 100%
+
+### 12.7. MA'LUMOT MANBALARI (O'zbekistonda tayyor raqam yo'q — SIZ yaratasiz)
+
+| Ma'lumot turi | Manba | Qanday olinadi |
+|--------------|-------|-----------------|
+| OTM boshqaruv holati | **So'rovnoma** | 150-200 respondent (rektor, prorektor, bo'lim boshliq) |
+| Hujjatlar mavjudligi | **Kontent-tahlil** | OTM saytlari, hisobotlar, shtatlash jadvallari |
+| Ekspert bahosi | **Delphi usuli** | 15-20 ekspert, 2-3 raund |
+| Xorijiy talabalar soni | **Statistika qo'mitasi** | Rasmiy ma'lumot |
+| Chuqur tushunish | **Intervyu (case-study)** | 5-10 ta OTM rahbari bilan suhbat |
+
+### 12.8. PLS-SEM DA QANDAY ISHLAYDI
+
+```
+MODEL:
+
+[Strategik mexanizm]─────────┐
+[Tashkiliy mexanizm]──────────┤
+[Sifat mexanizmi]─────────────┼──▶ [BOSHQARUV YETUKLIGI (MMI)] ──▶ [EKSPORT NATIJASI]
+[Motivatsion mexanizm]────────┤              (mediator)              (xorijiy talabalar,
+[Monitoring mexanizmi]────────┤                                        dasturlar soni)
+[Hududiy mexanizm]────────────┘
+
+Ma'lumot: 150-200 respondent, Likert 1-5
+Standartlashtirish: Z-score
+Dastur: SmartPLS yoki R (seminr)
+Natija: Path koeffitsiyentlar, R², mediatsiya effekti
+```
+
+---
+
+*Hujjat yangilangan: 2026-yil, 2-iyun*
+*Barcha ma'lumotlar bitta faylda birlashtilgan*
